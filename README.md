@@ -170,4 +170,4 @@ Transcripts are the publicly released earnings-call transcripts of the banks. Ch
 
 ## Acknowledgements
 
-Developed for the Bank of England RegTech team as part of the Cambridge Data Science 2026 programme (Team 7).
+Developed for the Bank of England RegTech team as part of the Cambridge Data Science 2026 programme (Team 7, October 2026).
