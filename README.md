@@ -1,6 +1,6 @@
 # Cross-Bank Analysis of Earnings-Call Q&A
 
-**Cambridge Data Science 2026 · Empirical Project · Team 7 · Bank of England RegTech**
+**Cambridge Data Science 2026 · Empirical Project · Team 7 · Bank of England RegTech · October 2026**
 
 This project analyses what analysts ask, and how management answers, in the question-and-answer sections of US bank earnings calls. It applies topic modelling (BERTopic), financial sentiment analysis (FinBERT), time-series trend tests and anomaly detection to compare banks. It ends with a retrieval-augmented generation (RAG) system that answers questions about the calls with cited sources.
 
